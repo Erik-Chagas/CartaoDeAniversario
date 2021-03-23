@@ -1,1 +1,1 @@
-# Desenvolvimento-Web
+Estudos e portfólio sobre ciência de dados do desenvolvedor Erik Chagas Rozal
