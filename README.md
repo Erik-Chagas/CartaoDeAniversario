@@ -1,1 +1,1 @@
-Estudos e portfólio sobre desenvolvimento web do desenvolvedor Erik Chagas Rozal
+Projeto de cartão de aniversário em HTML/CSS/Javascript
